@@ -1,0 +1,28 @@
+Assignment-4_M Dasharath
+
+Question no 1: 
+                           Total users      Unique_users
+
+         Day 01/07/2022 -->  128717      --> 38269
+         Day 02/07/2022 -->  141479      --> 41156
+         Day 03/07/2022 -->  161967      --> 45735
+         Day 04/07/2022 -->  140533      --> 40917
+         Day 05/07/2022 -->  142796      --> 41657
+
+Question no 2:
+                                              Number of views by a user a day
+         Day 01/07/2022 -->  (128717/38269)    ----> 3.36348
+         Day 02/07/2022 -->  (141479/41156)    ----> 3.43763
+         Day 03/07/2022 -->  (161967/45735)    ----> 3.54142
+         Day 04/07/2022 -->  (140533/40917)    ----> 3.43459
+         Day 05/07/2022 -->  (142796/41657)    ----> 3.42790
+
+Question no: 3
+        Average number of views which a user performs for all 5 days combined: 3.98066
+
+Questions no: 4
+          “e5dd3cb5-a185-c1ce-4ad4-e81f654dbfca” : 2
+          “67cbe3d0-f739-3f46-a5f9-dfeec07e90b8” : 1 
+         
+
+
